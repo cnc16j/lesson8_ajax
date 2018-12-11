@@ -13,8 +13,7 @@ Caitlyn Colvin
 This creates an appication which will query TMDB for movie information using the seach parameter.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://cnc16j.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. I learned that the TMDB API can be used to add a movie search function to outside apps.
